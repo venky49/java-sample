@@ -1,8 +1,1 @@
-Hello, Koti !!!
-Hello, Koti !!!Hello, Koti !!!Hello, Koti !!!Hello, Koti !!!Hello, Koti !!
-/tmp/maven-test
-[root@boss maven-test]# cd /var/lib/jenkins/workspace/maven-ci-cd-build/target/
-[root@boss target]# ls
-archive-tmp  classes  generated-sources  generated-test-sources  maven-archiver  maven-status  surefire-reports  test-classes  zilla-0.1.jar  zilla-0.1-jar-with-dependencies.jar
-[root@boss target]# java -jar zilla-0.1-jar-with-dependencies.jar
-Hay Guys, I just made some changes to the code, now this should be new build outpu
+Hello CloudGurus
